@@ -1,5 +1,6 @@
 /* Style the video: 100% width and height to cover  */
 #myVideo{
+    border-top: 20px;
     position: absolute;
     top: 0;
     left: 0;
